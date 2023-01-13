@@ -10,7 +10,8 @@
   "license": "ISC",
   "dependencies": {
     "axios": "^1.2.2",
-    "lerna": "^6.4.0"
+    "lerna": "^6.4.0",
+    "react-query": "^3.39.2"
   },
   "workspaces": [
     "packages/*"
